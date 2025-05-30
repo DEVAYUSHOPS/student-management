@@ -7,7 +7,7 @@ const cors = require("cors");
 const app = express();
 connectDB();
 app.use(cors({
-  origin: 'https://ayushtaskmanagerapp.netlify.app',
+  origin: 'https://studentmangementapp.netlify.app',
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH','OPTIONS']
 }));
 app.use(express.json());
