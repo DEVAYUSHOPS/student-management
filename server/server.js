@@ -7,7 +7,7 @@ const cors = require("cors");
 const app = express();
 connectDB();
 app.use(cors({
-  origin: "https://studentmangementapp.netlify.app",
+  origin: "https://ayushstudentmanagementapp.netlify.app/",
   credentials: true, // only if using cookies/JWT in auth headers
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"]
