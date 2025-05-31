@@ -3,6 +3,11 @@
 A full-stack dashboard-based student CRUD system with role-based access control (admin vs user). Built using the MERN stack (MongoDB, Express, React, Node.js).
 
 ---
+## 🌐 Live Demo
+
+[View Live Site](https://ayushstudentmanagementapp.netlify.app/)
+
+---
 
 ## 🚀 Features
 
