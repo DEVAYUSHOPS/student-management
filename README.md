@@ -142,6 +142,8 @@ Authorization: Bearer <token>
 - Deploy the frontend to [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/).
 - Update the frontend `proxy` or API URLs for production.
 
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/f75adc5c-95d8-42c4-bc15-dd91cd1f2998/deploy-status)](https://app.netlify.com/projects/ayushstudentmanagementapp/deploys)
+
 ---
 
 ## 📞 Contact
